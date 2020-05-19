@@ -1,6 +1,6 @@
 ## About me
 
-I am a [former engineer](https://www.linkedin.com/in/khanhnguyen-vn/) :factory:, [self-taught coder](https://github.com/seismatica/) :computer:, and [lifelong learner](https://medium.com/@seismatica) :book:.
+I am a [former engineer](https://www.linkedin.com/in/khanhnguyen-vn/) 🏭, [self-taught coder](https://github.com/seismatica/) 💻, and [lifelong learner](https://medium.com/@seismatica) 📖.
 
 Currently, as a data scientist, I have a proven track record in all stages of the data science pipeline, including:
 
