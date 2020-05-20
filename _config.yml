@@ -1,6 +1,7 @@
 theme: jekyll-theme-leap-day
 title: Khanh Nguyen
 description: Data Scientist
+google_analytics: UA-167204590-1
 github:
   repository_url: https://github.com/seismatica
   is_project_page: false
