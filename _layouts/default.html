@@ -1,29 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@seismatica 
-pages-themes
-/
-leap-day
-231k
-3
-106251
- Code
- Issues 1
- Pull requests 0 Actions
- Security 0
- Insights
-leap-day/_layouts/default.html
-@iBug iBug Respect page.title and page.description if set
-6f84b72 on 2 May 2019
-@benbalter@JoeBiellik@iBug@mattgraham@casperdcl
-66 lines (58 sloc)  2.58 KB
- 
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -50,7 +24,7 @@ leap-day/_layouts/default.html
       <div id="banner">
         <span id="logo"></span>
 
-        
+        <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
@@ -90,15 +64,3 @@ leap-day/_layouts/default.html
     {% endif %}
   </body>
 </html>
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
