@@ -1,6 +1,6 @@
-## About me
-
 ![headshot](photo/headshot_circle.png)
+
+## About me
 
 I'm a [former engineer](https://www.linkedin.com/in/khanhnguyen-vn/) 🏭, [self-taught coder](https://medium.com/@seismatica/mit-6-00-1x-review-ef4f3561e114?source=friends_link&sk=dba9a641f7589b0723964fa5d4289186) 💻, and [lifelong learner](https://medium.com/@seismatica) 📖.
 
