@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a [former engineer](https://www.linkedin.com/in/khanhnguyen-vn/) 🏭, [self-taught coder](https://medium.com/@seismatica/mit-6-00-1x-review-ef4f3561e114?source=friends_link&sk=dba9a641f7589b0723964fa5d4289186) 💻, and [lifelong learner](https://medium.com/@seismatica) 📖.
+I'm a [former engineer](https://www.linkedin.com/in/dknguyen-vn/) 🏭, [self-taught coder](https://medium.com/@seismatica/mit-6-00-1x-review-ef4f3561e114?source=friends_link&sk=dba9a641f7589b0723964fa5d4289186) 💻, and [lifelong learner](https://medium.com/@seismatica) 📖.
 
 Currently, as a data scientist, I have a proven track record in all stages of the data science pipeline, including:
 
