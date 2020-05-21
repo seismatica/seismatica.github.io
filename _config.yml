@@ -5,3 +5,5 @@ google_analytics: UA-167204590-1
 github:
   repository_url: https://github.com/seismatica
   is_project_page: false
+author:
+  twitter: seismatica
