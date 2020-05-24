@@ -1,4 +1,4 @@
-![headshot](photo/headshot_circle.png)
+![](photo/headshot_circle.png)
 
 ## About me
 
