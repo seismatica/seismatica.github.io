@@ -1,4 +1,4 @@
-![](photo/circle_small_black_border.png)
+![](photo/circle_small_thick_border.png)
 
 ## About me
 
