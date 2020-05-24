@@ -1,4 +1,4 @@
-![](photo/headshot_circle.png)
+![](photo/circle_small_black_border.png)
 
 ## About me
 
