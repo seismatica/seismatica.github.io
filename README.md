@@ -10,7 +10,7 @@ Currently, as a data scientist, I have a proven track record in all stages of th
 
 * **Modeling**: I've built systems that recommend keywords to user's query, or similar products to those users have interacted.
 
-* **Integration**: I've worked closely with data engineers to integrate multiple data science models to production, from proof-of-concept demonstrations to live systems with periodic updates.
+* **Integration**: I've worked closely with data engineers to integrate multiple data science models to production, from proof-of-concept demonstrations to real-time systems with regular model updates.
 
 What gets me excited the most about being a data scientist is *helping people*, whether to:
 
@@ -18,7 +18,7 @@ What gets me excited the most about being a data scientist is *helping people*, 
 
 * **Propose** relevant metrics to benchmark the data science models being implemented, as well as applying improvements to these models against the chosen metrics.
 
-* **Communicate** the results of a data science project at all levels—from team leaders, to directors, to other technical staff—to explain the project benefits to stakeholders, to help them make better business decisions, or simply to educate them about the wonderful world of data science.
+* **Communicate** the results and impact of a data science project to stakeholders at all levels—from team leaders, to directors, to other technical staff.
 
 Aside from work, I am passionate about communicating all aspects of data science to the community at large. Examples include:
 
