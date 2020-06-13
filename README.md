@@ -18,7 +18,7 @@ What gets me excited the most about being a data scientist is *helping people*, 
 
 * **Propose** relevant metrics to benchmark the data science models being implemented, as well as applying improvements to these models against the chosen metrics.
 
-* **Communicate** the results and impact of a data science project to stakeholders at all levels—from team leaders, to directors, to other technical staff.
+* **Communicate** the results and benefits of a data science project to stakeholders at all levels—from team leaders, to directors, to other technical staff.
 
 Aside from work, I am passionate about sharing interesting aspects of data science, such as:
 
