@@ -26,4 +26,4 @@ Aside from work, I am passionate about disseminating interesting aspects of data
 * How to implement the **mathematics** behind fundamental data science concepts, such as [Gaussian sampling](https://medium.com/mti-technology/how-to-generate-gaussian-samples-347c391b7959?source=friends_link&sk=46282403d3478247812038bfa0d1febf) or [language models](https://medium.com/mti-technology/n-gram-language-model-b7c2fc322799?source=friends_link&sk=d03df89a05762efb92a411874e84fea9).
 
 ## Contact
-Please feel free to contact me via [Linkedin](https://www.linkedin.com/in/khanhnguyen-vn/), [Twitter](https://twitter.com/seismatica), [Medium](https://medium.com/@seismatica), or send me an email at nguyenduykhanh.hcm@gmail.com.
+Please feel free to contact me via [Linkedin](www.linkedin.com/in/dknguyen-vn), [Twitter](https://twitter.com/seismatica), [Medium](https://medium.com/@seismatica), or send me an email at nguyenduykhanh.hcm@gmail.com.
