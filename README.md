@@ -14,9 +14,9 @@ Currently, as a data scientist, I have a proven track record in all stages of th
 
 What gets me excited the most about being a data scientist is *helping people*, whether to:
 
-* **Research** on whether a data science tool or technique will be effective to solve a business problem, and how feasible they are to be implemented by the data science team.
+* **Research** on whether a data science tool or technique will be effective to solve a business problem, and how feasible they are to be implemented.
 
-* **Propose** relevant metrics to benchmark the data science models being implemented, as well as applying improvements to these models against the chosen metrics.
+* **Propose** relevant metrics to benchmark the data science models being implemented, as well as improve these models against the chosen metrics.
 
 * **Communicate** the results and benefits of a data science project to stakeholders at all levels—from team leaders, to directors, to other technical staff.
 
