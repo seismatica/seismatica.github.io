@@ -10,7 +10,7 @@ Currently, as a data scientist, I have a proven track record in all stages of th
 
 * **Modeling**: I've built systems that recommend keywords to user's query, or similar products to those users have interacted.
 
-* **Integration**: I've worked closely with data engineers to integrate multiple data science models to production, from proof-of-concept demonstrations to real-time systems with regular model updates.
+* **Deployment**: I've worked closely with data engineers to deploy multiple data science models to production, from proof-of-concept demonstrations to real-time systems with regular model updates.
 
 What gets me excited the most about being a data scientist is *helping people*, whether to:
 
